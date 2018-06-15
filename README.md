@@ -1,1 +1,1 @@
-# mc11
+# MC11 product
